@@ -1,4 +1,4 @@
-# Olá! Eu sou o [Henique Lima] 👋
+# Olá! Eu sou o Henrique Lima 👋
 
 Sou estudante de Análise e Desenvolvimento de Sistemas e apaixonado por tecnologia. Estou sempre buscando aprender e aplicar novos conhecimentos. Gosto de explorar diferentes linguagens e ferramentas no meu tempo livre.
 
