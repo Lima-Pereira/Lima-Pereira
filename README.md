@@ -2,7 +2,7 @@
 
 Sou estudante de Análise e Desenvolvimento de Sistemas e apaixonado por tecnologia. Estou sempre buscando aprender e aplicar novos conhecimentos. Gosto de explorar diferentes linguagens e ferramentas no meu tempo livre.
 
-## 🚀 Tecnologias que utilizo
+## 🚀 Habilidades Principais
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
