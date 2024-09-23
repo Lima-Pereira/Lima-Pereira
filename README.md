@@ -51,7 +51,7 @@ Aqui estão alguns dos meus projetos:
 ## 📫 Como me encontrar
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/henrique-lima/">
+  <a href="https://www.linkedin.com/in/henrique-lima-pereira?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:lima.henriquepereira.henrique@gmail.com">
