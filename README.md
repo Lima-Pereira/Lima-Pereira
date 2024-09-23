@@ -1,5 +1,9 @@
 # Olá! Eu sou o Henrique Lima 👋
 
+Sou estudante de Análise e Desenvolvimento de Sistemas e apaixonado por tecnologia. Estou sempre buscando aprender e aplicar novos conhecimentos. Gosto de explorar diferentes linguagens e ferramentas no meu tempo livre.
+
+## 🚀 Tecnologias que utilizo
+
 <p align="center">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -16,19 +20,11 @@
 
 ## 📊 Estatísticas do GitHub
 
-<!-- Onda decorativa -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="Onda decorativa" width="100%" />
-</p>
-
-<!-- Estatísticas com onda -->
-<p align="center">
+  <!-- Estatísticas -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lima-Pereira&show_icons=true&theme=radical&locale=pt-br" alt="Estatísticas do GitHub"/>
+  <!-- Linguagens mais usadas -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lima-Pereira&layout=compact&theme=radical&locale=pt-br" alt="Linguagens mais usadas"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="Onda decorativa" width="100%" />
 </p>
 
 ## 💻 Projetos
@@ -55,5 +51,11 @@ Aqui estão alguns dos meus projetos:
 
 ## 📫 Como me encontrar
 
-- GitHub: [Lima-Pereira](https://github.com/Lima-Pereira)
-- Email: lima.henriquepereira.henrique@gmail.com
+<p align="center">
+  <a href="https://www.linkedin.com/in/henrique-lima/">
+    <img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:lima.henriquepereira.henrique@gmail.com">
+    <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
