@@ -24,13 +24,16 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e apaixonado por tecnolo
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lima-Pereira&layout=compact&theme=radical&locale=pt-br" alt="Linguagens mais usadas"/>
 </p>
 
-## ​💻 Projetos
-​Aqui estão alguns dos projetos que desenvolvi para aplicar e aprimorar meus conhecimentos:
-​Portfólio - Sistema desenvolvido em Laravel 10 e SQLite. Utiliza a API REST do GitHub para buscar e sincronizar meus repositórios automaticamente, seguindo o padrão MVC.
-​LaraFace - Aplicação web desenvolvida com Laravel, aplicando conceitos de redes sociais, autenticação de usuários, relacionamentos de banco de dados e interações dinâmicas.
-​Site de Pizzaria - Aplicação web construída para aplicar conceitos práticos de front-end e estruturação visual de sistemas comerciais.
-​Restaurante - Sistema web voltado para o setor gastronômico, aplicando regras de negócio comerciais e estruturação de interface para usuários.
-​Estuda Junto - Plataforma desenvolvida com foco no ambiente educacional e organização, promovendo a aplicação de conceitos de usabilidade e interação de usuários.
+## 💻 Projetos
+
+Aqui estão alguns dos projetos que desenvolvi para aplicar e aprimorar meus conhecimentos:
+
+- **[Portfólio](https://github.com/Lima-Pereira/meu-portfolio)** - Sistema desenvolvido em **Laravel 10** e **SQLite**. Utiliza a API REST do GitHub para buscar e sincronizar meus repositórios automaticamente, seguindo o padrão MVC.
+- **[LaraFace](https://github.com/Lima-Pereira/laraface)** - Aplicação web desenvolvida com **Laravel**, aplicando conceitos de redes sociais, autenticação de usuários, relacionamentos de banco de dados e interações dinâmicas.
+- **[Site de Pizzaria](https://github.com/Lima-Pereira/projeto-ADS)** - Aplicação web construída para aplicar conceitos práticos de front-end e estruturação visual de sistemas comerciais.
+- **[Restaurante](https://github.com/Lima-Pereira/restaurante)** - Sistema web voltado para o setor gastronômico, aplicando regras de negócio comerciais e estruturação de interface para usuários.
+- **[Estuda Junto](https://github.com/Lima-Pereira/estuda-junto)** - Plataforma desenvolvida com foco no ambiente educacional e organização, promovendo a aplicação de conceitos de usabilidade e interação de usuários.
+
 
 ## 🌱 Atualmente Aprendendo
 
