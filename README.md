@@ -30,7 +30,7 @@ Aqui estão alguns dos projetos que desenvolvi para aplicar e aprimorar meus con
 
 - **[Portfólio](https://github.com/Lima-Pereira/meu-portfolio)** - Sistema desenvolvido em **Laravel 10** e **SQLite**. Utiliza a API REST do GitHub para buscar e sincronizar meus repositórios automaticamente, seguindo o padrão MVC.
 
-- **[LaraFace](https://github.com/Lima-Pereira/laraface)** - Aplicação web desenvolvida com **Laravel**, aplicando conceitos de redes sociais, autenticação de usuários, relacionamentos de banco de dados e interações dinâmicas.
+- **[LaraFace](https://github.com/Lima-Pereira/laraface)** -Este projeto é um **CRUD completo** desenvolvido em **Laravel** que permite o cadastro de pessoas com captura de imagem em tempo real diretamente pela webcam.
 
 - **[Site de Pizzaria](https://github.com/Lima-Pereira/projeto-ADS)** - Aplicação web construída para aplicar conceitos práticos de front-end e estruturação visual de sistemas comerciais.
 
