@@ -15,14 +15,12 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e apaixonado por tecnolo
 
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
 ## 📊 Estatísticas do GitHub
 
-<p align="center">
-  <!-- Estatísticas -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lima-Pereira&show_icons=true&theme=radical&locale=pt-br" alt="Estatísticas do GitHub"/>
-  <!-- Linguagens mais usadas -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lima-Pereira&layout=compact&theme=radical&locale=pt-br" alt="Linguagens mais usadas"/>
-</p>
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Lima-Pereira&show_icons=true&theme=radical&locale=pt-br)](https://github.com/Lima-Pereira)
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Lima-Pereira&layout=compact&theme=radical&locale=pt-br)](https://github.com/Lima-Pereira)
+
 
 ## 💻 Projetos
 
