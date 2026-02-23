@@ -24,15 +24,13 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e apaixonado por tecnolo
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lima-Pereira&layout=compact&theme=radical&locale=pt-br" alt="Linguagens mais usadas"/>
 </p>
 
-## 💻 Projetos
-
-Aqui estão alguns dos meus projetos:
-
-- **[Site dePizzaria](https://github.com/Lima-Pereira/projeto-ADS)** - Sites desenvolvidos para testes de conhecimento durante a faculdade.
-- **[Calculadora Básica](https://github.com/Lima-Pereira/calculadora-angular)** - Aplicação de calculadora feita com Angular e Ionic.
-- **[Jogo da Forca](https://github.com/Lima-Pereira/gerador-de-senha)** - Jogo clássico da forca desenvolvido em Python.
-- **[Jogo de Número Secreto](https://github.com/Lima-Pereira/logica-js/blob/main/logica/app.js)** - Jogo simples de adivinhação de números, desenvolvido em JavaScript.
-- **[Banco de Dados com PHP](https://github.com/seu-usuario/conexao-mysql-php)** - Conexão com banco de dados MySQL utilizando PHP.
+## ​💻 Projetos
+​Aqui estão alguns dos projetos que desenvolvi para aplicar e aprimorar meus conhecimentos:
+​Portfólio - Sistema desenvolvido em Laravel 10 e SQLite. Utiliza a API REST do GitHub para buscar e sincronizar meus repositórios automaticamente, seguindo o padrão MVC.
+​LaraFace - Aplicação web desenvolvida com Laravel, aplicando conceitos de redes sociais, autenticação de usuários, relacionamentos de banco de dados e interações dinâmicas.
+​Site de Pizzaria - Aplicação web construída para aplicar conceitos práticos de front-end e estruturação visual de sistemas comerciais.
+​Restaurante - Sistema web voltado para o setor gastronômico, aplicando regras de negócio comerciais e estruturação de interface para usuários.
+​Estuda Junto - Plataforma desenvolvida com foco no ambiente educacional e organização, promovendo a aplicação de conceitos de usabilidade e interação de usuários.
 
 ## 🌱 Atualmente Aprendendo
 
