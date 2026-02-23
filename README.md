@@ -28,7 +28,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e apaixonado por tecnolo
 
 Aqui estão alguns dos meus projetos:
 
-- **[Site de Pizzaria](https://github.com/Lima-Pereira/projeto-ADS)** - Sites desenvolvidos para testes de conhecimento durante a faculdade.
+- **[Site dePizzaria](https://github.com/Lima-Pereira/projeto-ADS)** - Sites desenvolvidos para testes de conhecimento durante a faculdade.
 - **[Calculadora Básica](https://github.com/Lima-Pereira/calculadora-angular)** - Aplicação de calculadora feita com Angular e Ionic.
 - **[Jogo da Forca](https://github.com/Lima-Pereira/gerador-de-senha)** - Jogo clássico da forca desenvolvido em Python.
 - **[Jogo de Número Secreto](https://github.com/Lima-Pereira/logica-js/blob/main/logica/app.js)** - Jogo simples de adivinhação de números, desenvolvido em JavaScript.
