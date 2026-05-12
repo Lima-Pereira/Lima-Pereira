@@ -7,12 +7,11 @@
 ---
 
 ### 👨‍💻 Sobre Mim
-Sou um desenvolvedor apaixonado por tecnologia, atualmente cursando **Análise e Desenvolvimento de Sistemas**. Meu foco principal é o ecossistema PHP, mas estou em constante evolução explorando o mundo mobile e automações com IA.
+Sou um desenvolvedor apaixonado por tecnologia, atualmente formado em **Análise e Desenvolvimento de Sistemas**. Meu foco principal é o ecossistema PHP, mas estou em constante evolução explorando o mundo mobile e automações com IA.
 
 - 🔭 Atualmente trabalhando em projetos com **Laravel** e **Inertia.js**.
 - 🌱 Aprendendo: **Kotlin** para desenvolvimento Android nativo.
-- 💬 Pergunte-me sobre: PHP, Laravel, TailwindCSS e por que o café é essencial para o código.
-- 🎮 Nas horas vagas: Gamer e entusiasta de windsurf.
+- 🎮 Nas horas vagas: Gamer.
 
 ---
 
