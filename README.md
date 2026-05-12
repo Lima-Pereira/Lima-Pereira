@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Henrique+Lima!;Desenvolvedor+Web+Full+Stack;Estudante+de+ADS;Entusiasta+de+Kotlin+e+Android" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Henrique+Lima!;Desenvolvedor+Web" alt="Typing SVG" />
 
   <img src="https://github-profile-trophy.vercel.app/?username=Lima-Pereira&theme=radical&no-frame=false&margin-w=15&column=4" alt="github trophies" />
 </div>
